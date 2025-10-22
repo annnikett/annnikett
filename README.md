@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/
-aniket-chandra-035a5236b
+<a href="[www.linkedin.com/in/
+aniket-chandra-035a5236b](https://www.linkedin.com/in/aniket-chandra-035a5236b/)
 " target="blank"><img align="center" src="https://github.com/annnikett" alt="www.linkedin.com/in/aniket-chandra-035a5236b" height="30" width="40" /></a>
 </p>
 
