@@ -1,40 +1,59 @@
 
-
-<!---
-annnikett/annnikett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Header](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/74914395/a4029909-1262-41ee-a310-facf3b52e9e0/image.jpg?AWSAccessKeyId=ASIA2F3EMEYET7BPLLZ2&Signature=tPqx9MaKEuLJFuI7IzezOajsnZM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIGKcExgKHQ8sAkoocPZYNvmj%2FwzYrD673eGCWuQwpeVLAiEAoKK1j3lYG13zCFuBVeUR6Domih%2FBZf5YUITSsVdVf8gq8QQIIxABGgw2OTk3NTMzMDk3MDUiDBa6Zp4mv0rztxWzxCrOBBQ7fGHtLI8lIIshsYM%2Bndkm76yBGFhzq89PEdmnTr0JCx9D2Ecqllzym22eiyFXITJd3aOf5NQRMvW4OWF3ElkDhTHPj6Yl0g35yqKOvgK0hmYUIps0OhP3scdTz1pgi%2FwEKJbffvpIO8X7p5ltNBi6qIndika24tXR3c4M1hTOwY3otqYJ8KYRE1Ldc9MvPt%2F44dZonfwyBOMz7t9osW6KzmQuROB%2FeYOpd%2BV298Oc2BnT8%2BrEzo6Odk2yv3QFLxNgPlGEUFpAQ1B3bAPO0OC%2BSsEOOEuwnacQg1mt62TXtNGKbtl43937M1dlmmY%2FLwR7W8%2BZuuLEX9%2BjM5AXOQSqjlTfzxpNJ9WHB2IN2fjX8umjUV7l%2FQjv6Zu8XupgalR5XSyUmb6wNRYA8ExkfpXoKma583UnETL0FFPimUqEf8emv28KMepBQ89BXTLaiP3gjTiQ28q24Axkt2ZZaqCcVDGsENrKilOvLvPb1vPPkXLNQQC5WZF5aGLbDBQjXFZye3NKpOiDnBZ2XMRrTowCa%2FOMCKyFomVBCqDHoh3o%2BPHKAeTqt4A168Bqi50s4861aaNl542W2f%2Fsy6MlcwTy3Nbqn11qfQxtlGfQx9rxwOAPNs9A1hLYoKqJan5jXXJv8AgV7iuX%2B2o0AFALg1i1PvJkR5HbOabrcbqQxaB0FLA%2BKZVV3Y%2B1z9rC24VnUQ%2BC3FWgBszM6UcyGjiEzJyJ3k4j7R4SnQzF6ICcurPFN8rbEBVMs3Vw0dh%2Fx%2BBfehM0K07fPA1QkhCHe%2F4zMO%2Ft4McGOpoBBn5IdppoT0rc8g5xrt5eZl%2ByICoygDxlef9g9vYohCb4UcrjvKKYw2%2FYDkZZh3cdCloxJhP2n%2BkdJlusPBzQRtgrkHy%2FnbnySIElt4GdPoP5YVYA7q%2BezAW5aupqXPCL5XrSewHq0QQ04i%2Bsciw24Xb2LHXrMSF4jFpD3TCzVmGntsQobkf6X9cxACl5BExH%2FnfUKtZewQRvWA%3D%3D&Expires=1761098273)
-
-  Aspiring Full Stack Developer | Passionate about building web apps 🚀
-
-- 🌱 I’m currently learning java script
-
-- 📫 How to reach me aniketchandra2462@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aniket-chandra-035a5236b/" target="blank"><img align="center" src="https://github.com/annnikett" alt="www.linkedin.com/in/aniket-chandra-035a5236b" height="30" width="40" /></a>
+  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Aditya Vikram Singh Banner"></p>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
+<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
+🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
+🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
+📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
+<img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3" alt="R (Statistics)"><br>
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&amp;logo=rstudio" alt="RStudio">&nbsp;
+<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
+<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
+<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
 </p>
+<hr>
+<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
+<p>Last Edited on: 11/12/2020</p> 
 
 
 
