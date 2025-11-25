@@ -20,5 +20,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=annnikett&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center"> <img src="https://raw.githubusercontent.com/AnixWeb/AnixWeb/main/wave.svg" /> </p>
+<p align="center"> <img width="46%" src="https://github-readme-stats.vercel.app/api?username=AnixWeb&show_icons=true&theme=tokyonight" /> <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnixWeb&theme=tokyonight" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
