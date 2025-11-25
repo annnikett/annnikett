@@ -19,5 +19,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=annnikett&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center"> <img src="https://raw.githubusercontent.com/AnixWeb/AnixWeb/main/wave.svg" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
