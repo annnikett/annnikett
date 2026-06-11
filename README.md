@@ -1,5 +1,21 @@
-# 💫 About Me:
-- 🔭 I'm currently working on **Real-Time Location Tracking System** (Node.js + Kafka + Socket.IO)<br>- 👥 I'm looking to collaborate on **Backend & Full-Stack Projects**<br>- 🤝 I'm looking for help with **System Design & Scalable Architectures**<br>- 🌱 I'm currently learning **Apache Kafka, System Design & Scalable Backend Patterns**<br>- 💬 Ask me about **Node.js, Express, React, Socket.IO, Docker, Redis, Kafka**<br>- ⚡ Fun fact **I can build the frontend AND the backend — full-stack dono side se attack karta hun 😄**
+### Hello there 👋
+
+#### B.Tech Computer Engineering Student by day ☼ and Open Source Contributor by night ☾
+
+B.Tech Computer Engineering Student at [United College of Engineering and Research]();<br>
+Based in Greater Noida, Uttar Pradesh;<br>
+
+- ⚙️ I use daily: `.java, .html5, .css3, .javascript, .typescript, .sql(mysql), .reactjs`
+- 🌍 I'm mostly active within the **Java Community**
+- 💬 `ping` me about **Java programming, Data Structures and Algorithms, cloud computing fundamentals.**
+- 📫 How to reach me: [aniketchandra24622462@gmail.com](mailto:aniketchandra24622462@gmail.com)
+- ⚡ Fun fact: Solved 200+ problems on CodeChef and ranked in the Top 3 academically among college peers.
+
+---
+
+### ✍️ Blog & Content
+
+### 💖 Support
 
 
 ## 🌐 Socials:
